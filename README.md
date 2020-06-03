@@ -11,11 +11,11 @@ lrscp_demo.ipynb: a demo of applying the Lagarangean algorithm to solve three pr
 
 Data folder contains two datasets: 
              
-             swain.txt: contains the id, x and y coordinates and demand amount of 55 points
+swain.txt: contains the id, x and y coordinates and demand amount of 55 points
              
-             matrix_82.txt: contains the network distance matrix between 82 potential facilities and 2070 demand points, 
-                            the first line contains total number of facility-demand pairs, the number of demand points, the                               number of potential facilities, the network distance of real street network
-                            the rest lines contain: the id of facility-demand pair, the id of potential facility, the id of                               demand points, the network distance
+matrix_82.txt: contains the network distance matrix between 82 potential facilities and 2070 demand points, 
+               the first line contains total number of facility-demand pairs, the number of demand points, the                                number of potential facilities, the network distance of real street network
+               the rest lines contain: the id of facility-demand pair, the id of potential facility, the id of                                demand points, the network distance
 
 sbc.png: a map of SB data
                             
