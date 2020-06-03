@@ -1,6 +1,8 @@
 # lrscp
 An implementation of Lagrangean relaxation based optimization algorithm for Set Covering Problems (SCP), which are NP-complete problems.
 
+LRSCP.pdf: explains Set Covering Problems and the Lagrangean algorithm in details.
+
 lrscp.py: an implementation of a Lagrangean relaxation based optimization algorithm for SCP.
 
 lrscp_utils.py: provides helper functions supporting lrscp.py
